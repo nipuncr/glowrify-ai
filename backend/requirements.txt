@@ -8,6 +8,5 @@ Pillow==11.2.1
 numpy==1.26.4
 mediapipe==0.10.21
 rembg[cpu]==2.0.65
-opencv-python-headless==4.11.0.86
-opencv-contrib-python==4.11.0.86
+opencv-contrib-python-headless==4.11.0.86
 pytest==8.3.5

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.*.local
+__pycache__/
+.pytest_cache/
+.venv/
+*.tsbuildinfo
+backend/models/
+
+.setup-venv/
+.venv312/
+.env.*
+!.env.example

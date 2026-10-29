@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.git
+.env*
+backend/.env
+backend/.venv
+**/__pycache__
+**/.pytest_cache
+public/glowrify-source.zip
